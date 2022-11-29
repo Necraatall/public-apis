@@ -1,0 +1,28 @@
+popis:
+https://www.animenewsnetwork.com/encyclopedia/api.php
+
+moznosti:
+##############
+vyzkouset si: 
+##############
+praci s japonskym pismem 
+https://www.animenewsnetwork.com/news/2022-11-28/adult-manga-creator-naoya-ueno-passes-away/.192346
+**************
+hepbournem (prepis japonstiny) u Ghost in The Shell 
+https://cdn.animenewsnetwork.com/encyclopedia/api.xml?title=~Kokaku&title=~Ghost%20in%20the%20Shell&gid=2330273185
+**************
+provolavani...
+
+praci s daty...
+
+
+
+
+all items (much time spend load them)
+https://www.animenewsnetwork.com/encyclopedia/reports.php?id=155&nlist=all
+
+koukaku kidoutai
+https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=15805
+
+vyhledavani priblizne (max 50 titulu)
+https://cdn.animenewsnetwork.com/encyclopedia/api.xml?title=~Kokaku
